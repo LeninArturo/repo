@@ -10,3 +10,5 @@ while nombre=='lenin':
 print(f'\nOk te llamaras {nombre}')
 
 print('\nTermino el programa\n')
+
+#esto es un comentario
